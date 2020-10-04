@@ -22,5 +22,6 @@ own computer.
 
 ### Quickstart
 - requires `docker` and `make`
-- `make build && make test`
+- `make build`
+- `make test`
 - `make run # gives shell in docker container with package installed`
